@@ -5,6 +5,8 @@
 ## 项目内容
 
 - `test.ipynb`：Jupyter Notebook 练习文件
+- `ndarry.ipynb`：`ndarray` 基础概念练习
+- `numpy_score_lab.ipynb`：NumPy 成绩分析实验室，一个完整入门小项目
 - `安装 uv.md`：在 Ubuntu 上使用 `uv` 管理 Python 虚拟环境的笔记
 - `.venv/`：项目虚拟环境目录
 
@@ -36,6 +38,21 @@ python -c "import numpy as np; print(np.__version__)"
 ```
 
 也可以直接在 VS Code 中打开 `test.ipynb`，选择当前项目的 Python/Jupyter 内核运行代码。
+
+## 入门项目
+
+推荐先打开 `numpy_score_lab.ipynb`。
+
+这个 Notebook 以“学生成绩分析”为主题，练习 NumPy 的核心用法：
+
+- 创建二维数组
+- 查看 `ndarray` 属性
+- 索引和切片
+- 使用 `axis=0` 和 `axis=1` 做统计
+- 布尔筛选
+- 排序和排名
+- 广播运算
+- 随机数组模拟
 
 ## 学习路线
 
