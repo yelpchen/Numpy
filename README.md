@@ -116,14 +116,6 @@ print(a.shape)
 print(a.dtype)
 print(a.mean())
 ```
-
-## 学习记录
-
-| 日期 | 内容 | 状态 |
-| --- | --- | --- |
-| 2026-06-22 | 创建 Numpy 学习项目 | 已完成 |
-| 2026-06-22 | 学习 `import numpy as np` | 已完成 |
-
 ## 备注
 
 后续可以把每个知识点拆成独立 Notebook，例如：
